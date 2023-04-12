@@ -26,12 +26,12 @@ You can view the svg image generated in any Browser.
 
 ### Example Puzzle generated from the program
 
-![image](https://github.com/iusenotepad/Sudoku-Generator/blob/master/images/example_puzzle.svg)
+![image](https://github.com/iusenotepadonly/Suduko-Generator-CPP/blob/master/images/example_puzzle.svg)
 
 ### FlowChart
 
-![image](https://github.com/iusenotepadonly/Sudoku-Generator/blob/master/images/flowchart1.png)  
-![image](https://github.com/iusenotepadonly/Sudoku-Generator/blob/master/images/flowchart2.png)
+![image](https://github.com/iusenotepadonly/Suduko-Generator-CPP/blob/master/images/flowchart1.png)  
+![image](https://github.com/iusenotepadonly/Suduko-Generator-CPP/blob/master/images/flowchart2.png)
 
 ### Working of Step 1 and Step 6:
 
